@@ -1,0 +1,9 @@
+// cool thing idk what next string is doing
+#include <iostream>
+
+int main() {
+    // that's a code btw
+    std::cout << "Hello world!";
+
+    return 0;
+}
